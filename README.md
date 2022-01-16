@@ -1,5 +1,3 @@
-# play-tetris
-
 ## Brief
 
 Simple tetris game built with pygame
